@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary"]=self["webpackChunkdiary"]||[]).push([[238],{9238:function(t,n,r){r.r(n),r.d(n,{default:function(){return s}});var u=function(){var t=this;t._self._c;return t._m(0)},i=[function(){var t=this,n=t._self._c;return n("div",[n("h2",[t._v("import")]),n("p",[t._v("javascript的import与python大致相同,模块只会导入一次 ")]),n("h2",[t._v("javascript中动态导入")]),n("p",[t._v("在python中好像很少见")])])}],a=r(1001),e={},p=(0,a.Z)(e,u,i,!1,null,null,null),s=p.exports}}]);
+//# sourceMappingURL=238.2421275e.js.map
